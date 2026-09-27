@@ -1,0 +1,14 @@
+# Binaries and compiled executables
+*.exe
+*.o
+*.obj
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build and temporary files
+*.tmp
+*.log
